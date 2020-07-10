@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there! 
+
+My name is Evin Sellin! I spend a lot of time making computers do dumb things. Much of my experience is in webdev, but I'm interested in many aspects of computing, such as machine learning, functional programming, theory of computation, and web performance!
+
+[Here's my homepage](evinism.com), which has mostly the same information as before.
+
+### Contact!
+- twitter: my github username
+- email: my github username at gmail
+- phone: ask me over one of the above
 
 <!--
 **evinism/evinism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
