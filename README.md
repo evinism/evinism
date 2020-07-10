@@ -1,5 +1,3 @@
-### Hi there! 
-
 My name is Evin Sellin! I spend a lot of time making computers do dumb things. Much of my experience is in webdev, but I'm interested in many aspects of computing, such as machine learning, functional programming, theory of computation, and web performance!
 
 [Here's my homepage](evinism.com), which has mostly the same information as before.
